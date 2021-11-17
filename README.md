@@ -1,2 +1,2 @@
 # odin-recipes
-In this project im making recipúes project, using HTML.
+In this project im making recipes project, using HTML.
